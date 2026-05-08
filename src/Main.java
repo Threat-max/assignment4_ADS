@@ -1,11 +1,3 @@
-/**
- * Main.java — Entry point for Assignment 4: Graph Traversal System
- *
- * Demonstrates:
- *  - Graph construction using adjacency list
- *  - BFS and DFS traversal algorithms
- *  - Performance measurement across small, medium, and large graphs
- */
 public class Main {
 
     public static void main(String[] args) {
